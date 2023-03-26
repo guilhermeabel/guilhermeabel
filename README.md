@@ -35,6 +35,7 @@ programmer, full-stack web developer, handsome
 
 *i also like these:*
 <div display="flex">
+  <img src="https://img.shields.io/badge/Chat_GPT-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Chat GPT"/>
   <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" alt="Manjaro"/>
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leet Code"/>
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>

@@ -1,4 +1,5 @@
 # hey, I'm **Abel**
+[![Abel's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeabel)](https://github.com/guilhermeabel/github-readme-stats)
 
 Programmer, full-stack web developer, handsome
 

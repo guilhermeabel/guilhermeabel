@@ -1,18 +1,22 @@
 # hey, I'm **Abel**
 
+I'm a full-stack software developer since 2018.
 This is my personal profile, where i keep my own projects.
 
-My professional profile is: [@abel-tiny](https://github.com/abel-tiny)
+<img src="https://cdn.simpleicons.org/php/000/fff" align=left width=32 height=32>
 
-I really enjoy making things run faster and as cost-efficient as possible 🚀
+<img src="https://cdn.simpleicons.org/go/000/fff" align=left width=32 height=32>
 
-I'm a full-stack software developer since 2018. 
+<img src="https://cdn.simpleicons.org/nodedotjs/000/fff" align=left width=32 height=32>
 
-I'm experienced in building scalable applications and refactoring critical legacy systems using advanced architectural techniques.
+<img src="https://cdn.simpleicons.org/typescript/000/fff" align=left width=32 height=32>
 
-These skills allow me to craft maintainable software with peak performance.
 
-Technologies I mostly work with are PHP 8+, Golang, Node.js for backend, TypeScript, JavaScript, and React for frontend, and Redis for memory NoSQL cache DB with MySQL 8 for relational/disk storage.
+<br />
 
-I'm very familiar with DevOps infrastructure and networks, having developed CI/CD pipelines, unit and integration tests, and composing Docker environments for efficient resource utilization, as well as service health checks, API gateway implementation, load balancing, and more.
+#
+
+Check my professional profiles too:
+- [@abel-tiny](https://github.com/abel-tiny)
+- [@abel-grin](https://github.com/abel-grin)
 
